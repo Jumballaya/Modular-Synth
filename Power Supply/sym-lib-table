@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name L7812CV)(type Legacy)(uri ${KIPRJMOD}/external_libs/l7812cv/KiCad/L7812CV.lib)(options "")(descr ""))
+  (lib (name L7912CV)(type Legacy)(uri ${KIPRJMOD}/external_libs/l7912cv/KiCad/L7912CV.lib)(options "")(descr ""))
+  (lib (name PJ-059BH)(type Legacy)(uri ${KIPRJMOD}/external_libs/PJ-059BH/KiCad/PJ-059BH.lib)(options "")(descr ""))
+  (lib (name 61201621621)(type Legacy)(uri ${KIPRJMOD}/external_libs/61201621621/KiCad/61201621621.lib)(options "")(descr ""))
+)

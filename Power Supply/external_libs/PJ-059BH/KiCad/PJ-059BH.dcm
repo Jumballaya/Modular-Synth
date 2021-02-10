@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PJ-059BH
+D DC Power Connectors power jack, 2.5 x 5.5 mm, horizontal, through hole, high current, 1 switch
+K
+F https://www.cui.com/product/resource/pj-059bh.pdf
+$ENDCMP
+#
+#End Doc Library
